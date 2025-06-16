@@ -1,4 +1,3 @@
-# edge-aware-GAT-binding-site-prediction
 # Edge-aware GAT for Protein Binding Site Prediction
 
 A deep learning framework for predicting protein binding sites across five molecule types, integrating secondary structure (via DSSP) and relative surface accessibility into an edge-aware graph attention network.
