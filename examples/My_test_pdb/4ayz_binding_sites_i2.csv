@@ -1,0 +1,4 @@
+chain,residue_id,residue_name,mean_probability
+A:0,26,ILE,0.68762606
+A:0,5,ALA,0.51688176
+A:0,27,ARG,0.5073003
