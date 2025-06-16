@@ -28,10 +28,10 @@ pip install -r requirements.txt
 2. Preprocess data and build a dataset:
 python preparation.py
 
-3.Train and evaluate the model:
+3. Train and evaluate the model:
 python main.py
 
-4.Visualization results (loading pdb files in PyMOL)
+4. Visualization results (loading pdb files in PyMOL)
 load example_protein.pdb
 spectrum b, green_white_red, minimum=0, maximum=1
 
